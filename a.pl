@@ -19,4 +19,5 @@ while(<IOC>) {
  chomp;
  print TEMP "$_;",$ioc," CERT-PA\n";
 }
-system("mv temp iocs/$ioc");
+system("mv temp $ioc");
+system("mv $ioc iocs/$ioc");
