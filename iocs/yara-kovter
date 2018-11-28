@@ -1,0 +1,11 @@
+rule KovterUnpacked {
+  meta:
+    desc = "Encoded strings in unpacked Kovter samples."
+  strings:
+    $ = "7562@3B45E129B93"
+    $ = "@ouhKndCny"
+    $ = "@ouh@mmEdctffdsr"
+    $ = "@ouhSGQ"
+  condition:
+    all of them
+}
