@@ -28,6 +28,6 @@ while(<IOC>) {
   print TEMP "$_;$malware_name $urlo\n"; 
  }
 }
-system("cat temp >>iocs/c2-ioc-certpa");
+system("cat temp >>iocs/c2-ioc-certpa.txt");
 system("rm temp");
 unlink($ioc);
