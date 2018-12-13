@@ -35,3 +35,14 @@ pomf.cat;hawkeye https://www.cert-pa.it/wp-content/uploads/2018/12/IoC-HawkEyeRe
 dbc874cb5bd550d59f997039781321b3d7c95a18e3d9061392eb8d9efba3b961;gootkit-dropper https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2903_20181207-124130.txt
 antoniojguerrero.com;gootkit-dropper https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2903_20181207-124130.txt
 pixelors.com;gootkit-dropper https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2903_20181207-124130.txt
+jcmi5n4c3mvgtyt5.onion;samsam https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2891_20181205-163410.txt
+zeushelpu.wordpress.com;samsam https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2891_20181205-163410.txt
+union83939k.wordpress.com;samsam https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2891_20181205-163410.txt
+secangel7d.wordpress.com;samsam https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2891_20181205-163410.txt
+payforsecure7.wordpress.com;samsam https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2891_20181205-163410.txt
+lordsecure4u.wordpress.com;samsam https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2891_20181205-163410.txt
+keytwocode.wordpress.com;samsam https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2891_20181205-163410.txt
+key88secu7.wordpress.com;samsam https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2891_20181205-163410.txt
+followsec7.wordpress.com;smasam https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2891_20181205-163410.txt
+evilsecure9.wordpress.com;smasam https://www.cert-pa.it/wp-content/uploads/2018/12/evento_TT2891_20181205-163410.txt
+dea32433519c4628deeac802c0f1435a1b0d27d89f1ae5c1729ec7223f9eb04d;KingMiner https://www.cert-pa.it/wp-content/uploads/2018/11/evento_TT2878_20181130-170156.txt
