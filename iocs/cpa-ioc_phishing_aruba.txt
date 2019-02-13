@@ -1,0 +1,5 @@
+Dominio:;ioc_phishing_aruba.txt CERT-PA
+courriel.patinfoservices.info;ioc_phishing_aruba.txt CERT-PA
+;ioc_phishing_aruba.txt CERT-PA
+URL:;ioc_phishing_aruba.txt CERT-PA
+http://www.ricochet.rocks/php/php/snd1.php;ioc_phishing_aruba.txt CERT-PA
