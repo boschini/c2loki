@@ -1,0 +1,3 @@
+c2df98eff666c0899bfc347cf34cd2c8;pds_ioc Malware Rumba
+8433457fed777685ce85386c51f607ecc600482c;pds_ioc Malware Rumba
+2b43163fdbeab448c292abb4e34dc395175b80328232d4fd884011ee525cedb6;pds_ioc Malware Rumba
